@@ -1,13 +1,7 @@
 # HalfAdder
 Simple Verilog code to create a half-adder. 
 
-A half adder is a digital logic circuit that adds two single-bit binary inputs. 
+A half adder is a digital logic circuit that adds two single-bit binary inputs. Single bit binary inputs have a carry over when the sum is over 1 (1+1, sum=0, carryover=1).
 
 Inputs: a, b
 Outputs: sum, carry
-
-Truth Table
-a: 0 0 1 1 
-b: 0 1 0 1
-s: 0 1 1 0
-c: 0 0 0 1
